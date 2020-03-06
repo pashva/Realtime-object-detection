@@ -1,4 +1,4 @@
-# tensorflow
+# Flutter Real Time Object Detection Using TensorFlow
 
 A new Flutter application.
 
